@@ -48,6 +48,10 @@ a:hover, a:focus {
   font-weight: normal;
 }
 
+a {
+font-weight: inherit;
+}
+
 a small {
   font-size:11px;
   color:#777;
