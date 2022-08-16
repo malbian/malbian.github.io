@@ -1,8 +1,6 @@
 
 title: Maya Bian 
-description: Princeton in Asia Fellow at Population Services International, Vientiane, Laos.
-ma.al.bian@gmail.com
-hello
+description: Princeton in Asia Fellow in Vientiane, Laos. <br> ma.al.bian@gmail.com <br> hello
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
