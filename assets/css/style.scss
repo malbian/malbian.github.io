@@ -28,6 +28,7 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  font-weight: bold;
 }
 
 h2 {
@@ -45,10 +46,9 @@ a {
 
 a:hover, a:focus {
   color:#069;
-  font-weight: inherit;
 }
 
-site.title a:hover{
+site.title a:hover {
   font-weight:bold;
 }
 
