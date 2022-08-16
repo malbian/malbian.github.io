@@ -48,6 +48,10 @@ a:hover, a:focus {
   font-weight: inherit;
 }
 
+site.title a:hover{
+  font-weight:bold;
+}
+
 a small {
   font-size:11px;
   color:#777;
