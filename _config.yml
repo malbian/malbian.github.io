@@ -1,6 +1,6 @@
 
 title: Maya Bian 
-description: Princeton in Asia Fellow at Population Services International in Vientiane, Laos <p><small>ma.al.bian@gmail.com | <a href="https://https://www.linkedin.com/in/maya-bian/">LinkedIn</a> | Resume </small></p> 
+description: Princeton in Asia Fellow at Population Services International in Vientiane, Laos <small><p>maya.al.bian@gmail.com | <a href="https://www.linkedin.com/in/maya-bian/">LinkedIn</a> | <a href="https://github.com/malbian/malbian.github.io/blob/main/Resume%2008.16.22.pdf">Resume</a></p></small> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
