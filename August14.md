@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to August 14
+## Coding is frustrating, welcome to my blog
 
 _yay_
 
